@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blackdev23
 - 👀 I’m interested back-end development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Javascript
 - 💞️ Student looking to evolve and get a job
 
 <!---
