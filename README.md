@@ -6,7 +6,7 @@
 
 💬 Dicas e críticas construtivas serão sempre bem-vindas, você pode entrar em contato comigo por esses canais⤵️
 <p align="left">
-  <a href="erasmojuniordev@gmail.com" alt="Gmail">
+  <a href="https://is.gd/contatocomerasmojunior" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
 
   <a href="#" alt="LinkedIn">
