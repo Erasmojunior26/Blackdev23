@@ -2,7 +2,7 @@
 
 > Tenho 16 anos e estou cursando Desenvolvimento de Sistemas pelo SENAI-SE
 
-🔭 Em busca de experiência profissional e novos desafios, tenho mais afinidade com o desenvolvimento back-end mas gosto de explorar todas as áreas
+🔭 Estou em busca de experiência profissional e novos desafios, tenho mais afinidade com o desenvolvimento back-end mas gosto de explorar todas as áreas
 
 ---
 
